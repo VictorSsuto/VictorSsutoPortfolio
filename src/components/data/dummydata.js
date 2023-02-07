@@ -1,4 +1,4 @@
-import { Settings, CropRotate, ViewInAr, PieChart, Code, BarChart,  AddLocationAltOutlined, PhoneIphone, EmailOutlined, Facebook, Twitter, Instagram, YouTube } from "@mui/icons-material"
+import { Settings, DesignServices, ViewInAr, NetworkCheck, Code, BarChart,  AddLocationAltOutlined, PhoneIphone, EmailOutlined, Facebook, Twitter, Instagram, YouTube } from "@mui/icons-material"
 
 export const navlink = [
   {
@@ -51,7 +51,7 @@ export const services = [
   },
   {
     id: 2,
-    icon: <CropRotate />,
+    icon: <DesignServices />,
     title: "Frontend",
     desc: "I also know a lot of front end framework! Such as: ReactJS, HTML, CSS, SCSS, Javascript.",
   },
@@ -63,13 +63,13 @@ export const services = [
   },
   {
     id: 4,
-    icon: <PieChart />,
+    icon: <Code />,
     title: "Mobile Development",
     desc: "For mobile development I used android Studio but have also been loving the iOS Swift environment!",
   },
   {
     id: 5,
-    icon: <Code />,
+    icon: <NetworkCheck />,
     title: "IT and netowrking",
     desc: "I enjoy working with networking and security components such as routers, firewalls and IP addresses. I also took a course on Computer Components and OS!",
   },
@@ -128,21 +128,21 @@ export const portfolio = [
 export const testimonials = [
   {
     id: 1,
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
+    text: "Victor Ssuto is a student of whom I've seen cross any obstacle he faces. Being In computer science we often come across many ideas that seem far from our grasp of understanding however Victor somehow always manages to be the first one to master them no matter the difficulty. His soft skills are second to none. Perhaps the most social and light hearted individual I've ever had the pleasure of working with. Not only is his skill and knowledge always up to to date, his work ethic and drive seem to surpass the top students. What he sometimes lacks in experience, he makes up for in motivation and skill.",
     image: "./images/testimonials/team-1.png",
     name: "Mohit Shankar",
     post: "Student and classmate at Champlain College",
   },
   {
     id: 2,
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
+    text: "On our final project, working with Victor was a delight. He was a great asset to the team because of his helpful and perceptive character. Victor not only put in the effort to complete the task, but he also demonstrated that he was a natural leader. He skillfully led and inspired the group to accomplish our shared objectives. Victor is a talented and natural team player who also possesses great leadership qualities. I would recommend him to any team that needs someone with any of these qualities.",
     image: "./images/testimonials/team-2.png",
     name: "Frederic Alexandre Lebvefre",
     post: "Student and teamate for the ISRS project",
   },
   {
     id: 3,
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
+    text: "Victor Ssuto is an exceptional teammate who consistently demonstrates a deep understanding of the subject matter, strong technical skills, and a passion for delivering high-quality work.",
     image: "./images/testimonials/team-3.png",
     name: "Francis Shehata",
     post: "Student and teamate for the ISRS project",
