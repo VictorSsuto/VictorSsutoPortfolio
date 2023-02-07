@@ -1,6 +1,9 @@
 import React, { useEffect } from "react"
 import { home } from "../data/dummydata"
 import Typewriter from "typewriter-effect"
+import CV from "./CV/ComputerScienceCV.pdf" 
+
+
 
 export const Hero = () => {
   return (
@@ -21,9 +24,12 @@ export const Hero = () => {
               />
             </h1>
             <p data-aos='fade-left'>{val.desc}</p>
-            <button className='primaryBtn' data-aos='fade-up-right'>
-              Download CV
-            </button>
+    
+            <a href={CV} download>
+          <button className="primaryBtn" data-aos='fade-up-right'>Open CV</button>
+           </a>
+
+
           </div>
         ))}
       </section>
