@@ -104,13 +104,6 @@ export const portfolio = [
     title: "Mobile Application made with Swift",
   },
   {
-    id: 4,
-    cover: "../images/port/port4.jpg",
-    name: "Fallen God",
-    category: "Unity",
-    title: "2d Platformer!",
-  },
-  {
     id: 5,
     cover: "../images/port/port5.jpg",
     name: "Pet Clinic",
@@ -128,14 +121,14 @@ export const portfolio = [
 export const testimonials = [
   {
     id: 1,
-    text: "Victor Ssuto is a student of whom I've seen cross any obstacle he faces. Being In computer science we often come across many ideas that seem far from our grasp of understanding however Victor somehow always manages to be the first one to master them no matter the difficulty. His soft skills are second to none. Perhaps the most social and light hearted individual I've ever had the pleasure of working with. Not only is his skill and knowledge always up to to date, his work ethic and drive seem to surpass the top students. What he sometimes lacks in experience, he makes up for in motivation and skill.",
+    text: "Victor Ssuto is a student of whom I've seen cross any obstacle he faces. Being In computer science we often come across many ideas that seem far from our grasp of understanding however Victor somehow always manages to be the first one to master them no matter the difficulty. ",
     image: "./images/testimonials/team-1.png",
     name: "Mohit Shankar",
     post: "Student and classmate at Champlain College",
   },
   {
     id: 2,
-    text: "On our final project, working with Victor was a delight. He was a great asset to the team because of his helpful and perceptive character. Victor not only put in the effort to complete the task, but he also demonstrated that he was a natural leader. He skillfully led and inspired the group to accomplish our shared objectives. Victor is a talented and natural team player who also possesses great leadership qualities. I would recommend him to any team that needs someone with any of these qualities.",
+    text: "On our final project, working with Victor was a delight. He was a great asset to the team because of his helpful and perceptive character. Victor not only put in the effort to complete the task, but he also demonstrated that he was a natural leader.",
     image: "./images/testimonials/team-2.png",
     name: "Frederic Alexandre Lebvefre",
     post: "Student and teamate for the ISRS project",
@@ -143,14 +136,14 @@ export const testimonials = [
   {
     id: 3,
     text: "Victor Ssuto is an exceptional teammate who consistently demonstrates a deep understanding of the subject matter, strong technical skills, and a passion for delivering high-quality work.",
-    image: "./images/testimonials/team-3.png",
+    image: "./images/testimonials/francis.png",
     name: "Francis Shehata",
     post: "Student and teamate for the ISRS project",
   },
   {
     id: 4,
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitordapibus dictum.Fusce faucibus ligula scelerisque, eleifend turpis in",
-    image: "./images/testimonials/team-3.png",
+    text: "I  am  very  impressed  by  Victor’s  technical  skills  and  keen  interest  in  computer  science.  He  is  a  very  motivated and enthusiastic young man,  scientifically  curious and  probing,  passionate about  computer programming, and displays an incredible eagerness to learn.      ",
+    image: "./images/testimonials/team-4.png",
     name: "Dr. Ben Hamza",
     post: "Concordia University teacher and supervisor of the ISRS",
   },

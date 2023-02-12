@@ -25,7 +25,17 @@ export const Home = () => {
       <br></br>
       <Portfolio />
       <Testimonials />
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
       <Contact />
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
+      <br></br>
     </>
   )
 }
