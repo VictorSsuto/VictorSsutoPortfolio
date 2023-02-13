@@ -30,15 +30,15 @@ export const home = [
   {
     text: "HELLO I'M",
     name: "VICTOR SSUTO",
-    post: "COMPUTER SCIENCE STUDENT",
-    design: "JUNIOR DEVELOPER",
+    post: "CS STUDENT",
+    design: "INTERN @ COLAS",
     desc: "Since a very young age, I was always around computers and grew up around many wires! I am currently in my last year of computer science in the 3-year program also known as a DEC. Pleasure to meet you! ",
   },
 ]
 export const about = [
   {
-    desc: "I have learned and developed many skills in the following languages: Java, JavaScript, PHP, Swift, Python, and C#. I have also honed my front-end development skills with knowledge of HTML, CSS, SCSS, ReactJS, and JavaScript.",
-    desc1: "Oh, and did I mention that I am extremely open to learning new software? Here are a couple of software I have used or learned throughout my education and my free time! Microsoft Windows, Linux, MacOS, iOS, Android Studio, Unity, Ubuntu, Git Bash, Docker, Wire Shark, Arduino.",
+    desc: "Hi I am Victor and here are some of my following skills that I have learned and developed through out my career: Java, JavaScript, PHP, Swift, Python, and C#. I have also honed my front-end development skills with knowledge of HTML, CSS, SCSS, ReactJS, and JavaScript.",
+    desc1: "Oh, and did I mention that I am extremely open to learning new software? Here are a couple of software I have used or learned throughout my education and my free time! Microsoft Windows, Linux, MacOS, iOS, Android Studio, Unity, Ubuntu, Git Bash, Docker and Arduino!",
     cover: "./images/man.png",
   },
 ]
